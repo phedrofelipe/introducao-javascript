@@ -1,0 +1,4 @@
+-> OBSERVAÇÕES GERAIS SOBRE O PROCESSO DE ESTUDO <-
+
+OBS01 - Foi feita a instalação da Biblioteca npm de forma local dentro do diretório dos documentos. A biblioteca é definida como um gerenciador de pacotes do NODE.JS;
+OBS02 - No conceito de Estruturas de repetição, o laço é considerado TODA a estrutura, enquanto a interação é uma VOLTA dada no laço;
